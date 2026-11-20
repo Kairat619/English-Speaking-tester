@@ -1,0 +1,6 @@
+{
+  "name": "English Pronunciation Tester",
+  "description": "Child-friendly English pronunciation and speech-recognition practice app for students.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
